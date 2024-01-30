@@ -1,1 +1,7 @@
-*.exe
+# Ignore all
+*
+
+!*.cc
+!*.cpp
+
+!*/
