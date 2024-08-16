@@ -69,7 +69,9 @@
         "numeric": "cpp",
         "stack": "cpp",
         "algorithm": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "charconv": "cpp",
+        "iomanip": "cpp"
     },
     "code-runner.executorMap": {
         "javascript": "node",
