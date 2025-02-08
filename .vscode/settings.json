@@ -71,7 +71,8 @@
         "algorithm": "cpp",
         "set": "cpp",
         "charconv": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "functional": "cpp"
     },
     "code-runner.executorMap": {
         "javascript": "node",
